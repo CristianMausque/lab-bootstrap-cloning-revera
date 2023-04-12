@@ -1,0 +1,114 @@
+img {
+    width: 100%;
+}
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+.menu ul {
+    display: flex;
+    list-style: none;
+    margin-bottom: 0;
+}
+
+.menu li {
+    margin-left: 20px;
+}
+
+.menu a {
+    color: black;
+    text-decoration: none;
+}
+
+.hero {
+    background-image: url('./lab-bootstrap-cloning-revera/starter-code/img/slider-1.jpg'); 
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 200px 0;
+    background-position: center;
+    background-size: 100%;
+    color: white;
+    filter: grayscale(100%);
+}
+
+read_more{
+    background: rgba(255,255,255,0.2);
+    display: block;
+    text-transform: uppercase;
+    color: #fff;
+    width: 150px;
+    border: 1px solid #fff;
+    padding: 5px 0px;
+    margin: 10px auto;
+    font-weight: bold;
+    color: #fff!important;
+}
+
+a{
+    border: 0; 
+    font-family: inherit;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit; 
+    margin: 0; 
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+
+.red {
+padding: 40px 0px;
+background: #ed564b;
+border-top: 5px solid #f96b61;
+border-bottom: 5px solid #f96b61;
+text-align: center;
+padding-left: 250px;
+}
+
+.padd {
+    padding-top: 50px;
+
+
+}
+
+.padd-down{
+
+    color: gray;
+}
+
+.padd-sup{
+    padding-top: 5px;
+}
+
+.button {
+    color: white;
+    text-decoration: none;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    border: 1px solid white;
+    text-align: center;
+    margin: 100px 50px;
+    padding: 20px 40px;
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+}
+
+grey {
+    background-color: grey;
+}
+
+.red2 {
+    padding: 0px 0px;
+    
+    border-top: 5px solid #f96b61;
+
+
+
+    }
+    
